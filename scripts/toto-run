@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from toto.lib import print_my_name
+
+print_my_name()
